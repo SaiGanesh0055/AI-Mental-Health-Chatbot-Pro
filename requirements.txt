@@ -1,0 +1,11 @@
+streamlit
+textblob
+transformers
+torch
+pandas
+matplotlib
+gTTS
+pyttsx3
+numpy
+sentencepiece
+tokenizers
